@@ -38,9 +38,8 @@
     },
     {
       "src": "DeveloperGuide.md",
-      "title": "Developer Guide",
       "headings": {
-        "ab-3-developer-guide": "AB-3 Developer Guide",
+        "loopin-developer-guide": "Loopin Developer Guide",
         "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
@@ -62,6 +61,8 @@
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
+        "adding-a-project": "Adding a project",
+        "viewing-a-project": "Viewing a project",
         "deleting-a-person": "Deleting a person",
         "saving-data": "Saving data"
       },
